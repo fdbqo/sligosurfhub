@@ -14,7 +14,7 @@ export default function HomePage() {
         </p>
 
         <div className="mt-6 flex justify-center space-x-4">
-          <Link href="/auth/signup" className="px-4 py-2 bg-green-500 text-white rounded">Sign Up</Link>
+          <Link href="/auth/register" className="px-4 py-2 bg-green-500 text-white rounded">Sign Up</Link>
           <Link href="/auth/login" className="px-4 py-2 bg-blue-500 text-white rounded">Login</Link>
         </div>
       </main>
